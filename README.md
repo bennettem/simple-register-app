@@ -3,6 +3,10 @@
 This is a basic application that will not save any data. The purpose is just to get input functions and error messages working properly. 
 The application will check what is required, length, and if the passwords match. 
 
+##deployment
+
+Check out the application at [https://bennettem.github.io/simple-register-app/]
+
 ## Acknowledgments
 Original Project by:
 Brad Traversy
