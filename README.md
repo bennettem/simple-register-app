@@ -10,5 +10,5 @@ Check out the application at https://bennettem.github.io/simple-register-app/
 ## Acknowledgments
 Original Project by:
 Brad Traversy
-- [Link to project repo]([https://snowslurpie.github.io/alex-portfolio/](https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)
+- [Link to project repo]([https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator](https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)https://github.com/bradtraversy/vanillawebprojects/tree/master/form-validator)
 - [Link to Github](https://github.com/bradtraversy)
