@@ -5,7 +5,7 @@ The application will check what is required, length, and if the passwords match.
 
 ##deployment
 
-Check out the application at ([https://bennettem.github.io/simple-register-app/])
+Check out the application at https://bennettem.github.io/simple-register-app/
 
 ## Acknowledgments
 Original Project by:
